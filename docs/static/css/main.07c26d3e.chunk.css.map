@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,sCACF,CAEA,KACE,YAEF,CAEA,sBAHE,wBAKF","file":"main.07c26d3e.chunk.css","sourcesContent":["*{\n  font-family: Arial, Helvetica, sans-serif;\n}\n\nbody {\n  padding: 60px;\n  background-color: #20232a;\n}\n\n.card-background {\n  background-color: #20232a;\n}"]}
