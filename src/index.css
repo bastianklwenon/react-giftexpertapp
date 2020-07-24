@@ -1,0 +1,12 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 60px;
+  background-color: #20232a;
+}
+
+.card-background {
+  background-color: #20232a;
+}
